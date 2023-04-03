@@ -12,7 +12,7 @@
 
 - 💻 I am currently enrolled at [Microverse](https://www.microverse.org/) to upskill myself. 
 
-- 🔭 I’m currently working on [Portfolio Website]([https://github.com/iamsjunaid/My-Portfolio-Website-1](https://iamsjunaid.github.io/My-Portfolio-Website-1/))
+- 🔭 I’m currently working on [Portfolio-Website](https://iamsjunaid.github.io/My-Portfolio-Website-1/).
 
 - 🌱 I’m currently learning **ReactJS, Ruby-on-Rails**.
 
