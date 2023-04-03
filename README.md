@@ -6,21 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="iamsjunaid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/junaidahmedsd" target="blank"><img src="https://img.shields.io/twitter/follow/junaidahmedsd?logo=twitter&style=for-the-badge" alt="junaidahmedsd" /></a> </p>
+**Without taking it any longer, Let's start with a little intro about myself**
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/iamsjunaid/My-Portfolio-Website-1)
+- 🎓 I am a degree holder in Computer Science Engineering. 
 
-- 🌱 I’m currently learning **ReactJS, Ruby-on-Rails**
+- 💻 I am currently enrolled at [Microverse](https://www.microverse.org/) to upskill myself. 
 
-- 👨‍💻 All of my projects are available at [junaidahmedsyed.netlify.app](junaidahmedsyed.netlify.app)
+- 🔭 I’m currently working on [Portfolio Website]([https://github.com/iamsjunaid/My-Portfolio-Website-1](https://iamsjunaid.github.io/My-Portfolio-Website-1/))
 
-- 💬 Ask me about **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Ruby-on-Rails**.
 
-- 📫 How to reach me **sjunaid626@gmail.com**
+- 👨‍💻 All of my projects are available at my website [here](junaidahmedsyed.netlify.app).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10lCAQ1u8oO7OSPCNlHKMwxBzJWrWVSuP/view?usp=share_link](https://drive.google.com/file/d/10lCAQ1u8oO7OSPCNlHKMwxBzJWrWVSuP/view?usp=share_link)
+- 📫 Here is my [email](sjunaid626@gmail.com) incase you want to reach me.
 
-- ⚡ Fun fact **I love to watch sci-fi movies.**
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/10lCAQ1u8oO7OSPCNlHKMwxBzJWrWVSuP/view?usp=share_link).
+
+- ⚡ Fun fact **I love to watch sci-fi movies and play cricket**.
 
 # Connect with me
 <p align="left">
