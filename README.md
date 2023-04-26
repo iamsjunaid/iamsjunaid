@@ -10,15 +10,15 @@
 
 - 🎓 I am a degree holder in Computer Science Engineering. 
 
-- 💻 I am currently enrolled at [Microverse](https://www.microverse.org/) to upskill myself. 
+- 💻 Enrolled at [Microverse](https://www.microverse.org/) to upskill myself. 
 
-- 🔭 I’m currently working on [Portfolio-Website](https://iamsjunaid.github.io/My-Portfolio-Website-2/).
+- 🔭 Working on [Portfolio-Website](https://iamsjunaid.github.io/My-Portfolio-Website-2/).
 
-- 🌱 I’m currently learning **ReactJS, Ruby-on-Rails**.
+- 🌱 Learning **ReactJS, Ruby-on-Rails**.
 
 - 👨‍💻 All of my projects are available at my website [here](junaidahmedsyed.netlify.app).
 
-- 📫 Here is my [email](sjunaid626@gmail.com) incase you want to reach me.
+- 📫 Drop an [email](sjunaid626@gmail.com) incase you want to reach me.
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/10lCAQ1u8oO7OSPCNlHKMwxBzJWrWVSuP/view?usp=share_link).
 
