@@ -39,6 +39,6 @@ Let's build something amazing together✨!
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iamsjunaid/iamsjunaid/output/snake.svg" alt="Snake animatio" />
+<img src="https://raw.githubusercontent.com/iamsjunaid/output/snake.svg" alt="Snake animatio" />
 
 ###
