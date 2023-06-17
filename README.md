@@ -1,12 +1,9 @@
-<img display="block" align="center" margin="auto" alt="coding" width="100%" height="300" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
-<hr color="#6FF3F8">
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&pause=1000&color=6FF3F8&center=true&vCenter=true&width=435&lines=Hey%2C+There%F0%9F%91%8B!;I'm+a+%3CFull+stack+Developer+%2F%3E" alt="Typing SVG" /></a></div>
-<hr>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&size=22&pause=1000&color=2C71FF&background=EA3A5D00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Junaid." alt="Typing SVG" /></a></div>
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="iamsjunaid" /> </p>
 
-👋 Hello there! I'm Junaid, a passionate full-stack software developer with a love for crafting elegant solutions and bringing ideas to life through code, Currently enrolled at [Microverse](https://www.microverse.org/).
+👋 I'm Junaid, a passionate full-stack software developer with a love for crafting elegant solutions and bringing ideas to life through code, Currently enrolled at [Microverse](https://www.microverse.org/).
 
 💻 I have gained expertise in both front-end and back-end technologies. From designing UI and crafting responsive web applications using modern JavaScript frameworks like React to building robust server-side applications using Node.js, Rails, and Java, I thrive on creating seamless and intuitive digital experiences.
 
