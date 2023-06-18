@@ -13,7 +13,7 @@
     *Front-end* : `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
     *Back-end* : `Ruby` `Rails` `NodeJS`<br>
     *Databases* : `MySQL` `MongoDB`<br>
-    *Tools* : `Git` `Github` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <br>
+    *Tools* : `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <br>
 
 > 📫 I am open to new opportunities! 
 
