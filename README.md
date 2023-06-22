@@ -39,6 +39,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=midnight-purple&hide_border=true"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
 
+## 📑My Articles:
+
+1. **[My journey to code](https://medium.com/@sjunaid626/how-did-i-get-into-software-development-bf794450567f)**
+
 ## 🟢My Contributions Graph:
 
 <div align="center"><img src="https://github.com/iamsjunaid/iamsjunaid/blob/output/github-contribution-grid-snake.gif" alt="snake_animation"></div>
