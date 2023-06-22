@@ -35,9 +35,13 @@
 
 ## 📊My GitHub Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=midnight-purple&hide_border=true"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
+<table>
+  <tr>
+    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"></p></td>
+    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=midnight-purple&hide_border=true"></p></td>
+    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p></td>
+  </tr>
+</table>
 
 ## 📑My Articles:
 
