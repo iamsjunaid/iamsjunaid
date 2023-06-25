@@ -5,7 +5,7 @@
 
 ## 📇Summary:
 
-> I am Junaid, a passionate full-stack software developer.<br>
+> I am Junaid, a passionate full-stack software developer<br>
 
 > Currently enrolled at [Microverse](https://www.microverse.org/).<br>
 
