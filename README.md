@@ -22,16 +22,14 @@
 
 <table>
   <tr>
-    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" width="800px"></p></td>
-    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="800px"></p></td>
-    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=midnight-purple&hide_border=true" width="800px"></p></td>
+    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamsjunaid&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"></p></td>
+    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=vue-dark&hide_border=true"></p></td>
+    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"></p></td>
   </tr>
 </table>
 
 ## 📑 Articles:
 
-1. [My journey to code](https://medium.com/@sjunaid626/how-did-i-get-into-software-development-bf794450567f)
+1. [**My journey to code**](https://medium.com/@sjunaid626/how-did-i-get-into-software-development-bf794450567f)
 
-<div align="center">
-<p>Thanks😊!!</p>
-</div>
+
