@@ -1,18 +1,17 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 ## 📇Summary:
-
-- I am Junaid, a full-stack software developer.<br>
-- Experienced in software development along with a degree in Computer Science Engineering.
-- Currently enrolled at [Microverse](https://www.microverse.org/).<br>
-- Expertise : <br>
+I am Junaid, a full-stack software developer.
+Experienced in software development along with a degree in Computer Science Engineering.
+Currently enrolled at [Microverse](https://www.microverse.org/).<br>
+Expertise : <br>
 
   Front-end : `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
   Back-end : `Ruby` `Rails` `NodeJS`<br>
   Databases : `MySQL` `MongoDB`<br>
   Tools : `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <br>
 
-- I am open to new opportunities!
+I am open to new opportunities!
 
 ## ⚙️Languages and Tools:
 
@@ -21,11 +20,10 @@
 </a>
   
 ## 📊 GitHub Stats:
-<div align="center" style="display:flex; gap:1em;">
+
 <img src="https://github-readme-stats.vercel.app/api?username=iamsjunaid&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsjunaid&theme=vue-dark&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjunaid&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</div>
 
 ## 📑 Articles:
 
