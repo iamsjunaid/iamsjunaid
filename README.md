@@ -1,5 +1,5 @@
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 ## 📇Summary:
 
 - I am Junaid, a full-stack software developer.<br>
@@ -17,7 +17,7 @@
 ## ⚙️Languages and Tools:
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,javascript,bootstrap,rails,ruby,nodejs,git,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,redux,threejs,tailwind,javascript,bootstrap,rails,ruby,nodejs,git,mongodb,mysql" />
 </a>
   
 ## 📊 GitHub Stats:
