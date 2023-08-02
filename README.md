@@ -1,15 +1,13 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 ## 📇Summary:
-I am Junaid, a full-stack software developer.
-Experienced in software development along with a degree in Computer Science Engineering.
-Currently enrolled at [Microverse](https://www.microverse.org/).<br>
+I am Junaid, a full-stack software developer. An experienced software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<br>
 Expertise : <br>
 
-  Front-end : `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
-  Back-end : `Ruby` `Rails` `NodeJS`<br>
-  Databases : `MySQL` `MongoDB`<br>
-  Tools : `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <br>
+  Front-end: `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
+  Back-end: `Ruby` `Rails` `NodeJS`<br>
+  Databases: `MySQL` `MongoDB`<br>
+  Tools: `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <br>
 
 I am open to new opportunities!
 
