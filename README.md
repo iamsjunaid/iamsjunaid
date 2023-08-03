@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?iamsjunaid)
 ## 📇Summary:
 I am Junaid, a full-stack software developer. An experienced software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<br>
 Expertise : <br>
