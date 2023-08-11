@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamsjunaid)
 ## 📇Summary:
-I am Junaid, a full-stack software developer. An experienced software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<br>
+👋Hi, I am Junaid, a full-stack software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<br>
 Expertise : <br>
 
   Front-end: `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
