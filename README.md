@@ -1,5 +1,9 @@
 
-![](https://komarev.com/ghpvc/?username=iamsjunaid)
+![](https://komarev.com/ghpvc/?username=iamsjunaid)<br>
+
+<div align="center">
+<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/13e353d3-9c5a-44c1-a7e1-c9d9780c8008">
+</div>
 
 ## 📇Summary:
 <img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/2cc096a2-7766-45e2-8f14-925ae82e6bc9"  width="20" height="20">Hi, I am Junaid, a full-stack software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<be>
