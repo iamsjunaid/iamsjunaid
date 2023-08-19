@@ -14,6 +14,7 @@
   Back-end: `Ruby` `Rails` `NodeJS`<br>
   Databases: `MySQL` `MongoDB`<br>
   Tools: `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <be>
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/90EOT1pnHrxr1GAoSR/giphy.gif">
 
 **I am open to new opportunities**<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/0eb2a8cb-48e5-48bc-9e67-640f5b7c26b7"  width="30" height="30">!
 
