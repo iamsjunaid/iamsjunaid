@@ -33,6 +33,7 @@
 ## 📑 Articles:
 
 1. [**My journey to code**](https://medium.com/@sjunaid626/how-did-i-get-into-software-development-bf794450567f)
+2. [**Enhance Your VS Code Experience with These Amazing Extensions**](https://medium.com/@sjunaid626/enhance-your-vs-code-experience-with-these-amazing-extensions-10776642d56e)
 
 <div align="center">
   <h3>- Cheers & Happy Coding!!! -<h3>
