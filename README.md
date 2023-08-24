@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=iamsjunaid)<br>
 
 <div align="center">
-<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/13e353d3-9c5a-44c1-a7e1-c9d9780c8008" width="90%">
+<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/13e353d3-9c5a-44c1-a7e1-c9d9780c8008">
 </div>
 
 ## 📇Summary:
