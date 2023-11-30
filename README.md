@@ -21,7 +21,7 @@
 
 ## ⚙️Languages and Tools:
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,threejs,tailwind,javascript,bootstrap,rails,ruby,nodejs,git,mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,javascript,bootstrap,rails,ruby,nodejs,git,mongodb,mysql,postgres" />
 </a>
 
 ## 📊 GitHub Stats <img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/b50787a1-a81b-4aea-832e-a6f945c7e4b9"  width="30" height="30">:
