@@ -12,7 +12,7 @@
 
   Front-end: `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
   Back-end: `Ruby` `Rails` `NodeJS`<br>
-  Databases: `MySQL` `MongoDB`<br>
+  Databases: `MySQL` `Postgres`<br>
   Tools: `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <be>
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/90EOT1pnHrxr1GAoSR/giphy.gif">
 
