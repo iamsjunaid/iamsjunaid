@@ -37,7 +37,7 @@
 3. [**How to Hack Your Productivity and Achieve More in Less Time**](https://medium.com/@sjunaid626/how-to-hack-your-productivity-and-achieve-more-in-less-time-3d600b41735c)
 
 <div align="center">
-  <h3>- Cheers & Happy Coding!!! <h3>
+  <h3>Happy Coding!!! <h3>
   <img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/a68d2de0-1aae-4c22-a131-894885f5a1dd"  width="100" height="100">
 </div>
 
