@@ -6,14 +6,25 @@
 </div>
 
 ## 📇Summary:
-<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/2cc096a2-7766-45e2-8f14-925ae82e6bc9"  width="20" height="20">Hi, I am Junaid, a full-stack software developer with a degree in Computer Science Engineering. Currently enrolled at [Microverse](https://www.microverse.org/).<be>
+<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/2cc096a2-7766-45e2-8f14-925ae82e6bc9"  width="20" height="20">Hi, I am Junaid, a full-stack software developer with a degree in Computer Science Engineering. Currently working as a software developer at [Explorator Labs](https://exploratorlabs.com).<be>
 
-### Expertise<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/c681d696-93a8-4a54-ab5a-8519798ec7f4"  width="20" height="20"> : <br>
+## 🦾Skills and Technologies<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/c681d696-93a8-4a54-ab5a-8519798ec7f4"  width="20" height="20"> : <br>
 
-  Front-end: `JavaScript` `React` `Redux` `jQuery` `HTML5` `CSS3`<br>
-  Back-end: `Ruby` `Rails` `NodeJS`<br>
-  Databases: `MySQL` `Postgres`<br>
-  Tools: `Git` `Github` `Render` `Heroku` `Netlify` `Mobile/Responsive Development` `RSpec` `TDD` `Chrome Dev Tools` <be>
+#### Frontend
+- ReactJS, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux, TypeScript
+
+#### Backend
+- Node.js, Ruby on Rails, Express.js, PostgreSQL, MongoDB, REST APIs, GraphQL, Redis
+
+#### DevOps & Cloud
+- Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, Lambda)
+
+#### Tools & Version Control
+- Git, Webpack, Babel, npm, Yarn, Vite, Visual Studio Code, Vercel, Render
+
+#### Testing
+- Jest, Cypress, React Testing Library, RSpec, TDD
+
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/90EOT1pnHrxr1GAoSR/giphy.gif">
 
 **I am open to new opportunities**<img src="https://github.com/iamsjunaid/iamsjunaid/assets/61676854/0eb2a8cb-48e5-48bc-9e67-640f5b7c26b7"  width="20" height="20">!
